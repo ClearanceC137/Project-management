@@ -1,0 +1,12 @@
+.update-pp {
+  padding: 10%;
+  margin-top: 50px;
+  display: grid;
+  justify-items: center;
+}
+
+.update-remove{
+  display: grid;
+  grid-template-columns: 50% 50%;
+  column-gap: 10px;
+}

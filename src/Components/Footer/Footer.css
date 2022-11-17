@@ -1,0 +1,15 @@
+footer {
+    background-color: #F5EBD8;
+    text-align: center;
+    position: absolute;
+    margin-top: auto;
+    width: 100%;
+    
+}
+
+/*-----------------------------------------*/
+
+.footer-text {
+    color: #8E0808;
+    font-size: 12px;
+}

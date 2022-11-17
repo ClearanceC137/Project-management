@@ -1,0 +1,53 @@
+.docu-div{
+    position: absolute;
+    top: 260px;
+    right: 5vw;
+    width: 15vw;
+    text-align: left;
+}
+
+.doc-div{
+    color: #8E0808;
+    cursor: pointer;
+}
+
+.doc-div:hover {
+    color: #F5EBD8;
+    background-color: #8E0808;
+    border-radius: 3px;
+}
+
+.wiki-div{
+    text-align: left;
+    width: 70vw;
+    margin-right: 15vw;
+}
+
+/*----------------------------------------------------------------*/
+
+.doc-name{
+    font-size: 12px;
+    margin-top: -5px;
+    border-bottom: 1px solid #8E0808;
+}
+
+.doc-name:hover {
+    border-bottom: 0px;
+}
+.projdesc {
+    margin-top: -15px;
+    border:  1px solid #8E0808;
+    padding: 10px;
+    border-radius: 3px;
+    font-weight:500;
+    font-size: 12px;
+}
+
+.title-h{
+    color: #8E0808;
+}
+
+.title-hd {
+    color: #8E0808;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,14 @@
+.project-details {
+    display: grid;
+    padding: 50px;
+    row-gap: 20px;
+}
+
+.btn-create-project {
+    justify-self: center;
+}
+
+.tittle{
+    padding-top: 20px;
+    text-align: center;
+}

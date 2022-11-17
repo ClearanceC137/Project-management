@@ -1,0 +1,45 @@
+.div-cont {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.project-div{
+    color: white;
+    background-color: #8E0808;
+    padding: 5vw;
+    border-radius: 10px;
+    box-shadow: 0px 8px 8px 0px #cfafa3;
+    transition: all .2s ease-in-out;
+    cursor: pointer;
+    margin: 10px;
+    min-width: 10vw;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.project-div:hover {
+    transform: scale(1.1);
+    color: #cfafa3;
+}
+
+.team-div {
+    color: white;
+    background-color: #cfafa3;
+    padding: 5vw;
+    border-radius: 10px;
+    box-shadow: 0px 8px 8px 0px #8E0808;
+    transition: all .2s ease-in-out;
+    cursor: pointer;
+    margin: 10px;
+    min-width: 10vw;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.team-div:hover {
+    transform: scale(1.1);
+    color:#8E0808;
+}
